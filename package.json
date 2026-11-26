@@ -1,0 +1,18 @@
+{
+  "name": "devops-midterm-23-NTU-CS-1150",
+  "version": "1.0.0",
+  "description": "DevOps Midterm Lab",
+  "main": "src/grade.js",
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
